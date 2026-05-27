@@ -1,286 +1,383 @@
-<!DOCTYPE html>
-<html lang="bg">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Melbourne 2026 - Информация</title>
-<link rel="stylesheet" href="marina.css">
-</head>
-<body>
-<header>
-<div class="header-inner">
-<a href="index.html" class="logo">
-<div class="olympic-rings" aria-label="Олимпийски кръгове">
-<span class="ring ring-blue"></span>
-<span class="ring ring-black"></span>
-<span class="ring ring-red"></span>
-<span class="ring ring-yellow"></span>
-<span class="ring ring-green"></span>
-</div>
-<span class="logo-text">
-Melbourne 2026 <em>Olympic Games</em>
-</span>
-</a>
-  
-<nav>
-<a href="../Melbourne 2026/melbourne-glavna.html">Главна</a>
-<a href="marina.html" class="active">Информация</a>
-<a href="../Ventsi main/vlog.html">Влог</a>
-<a href="../nicol.html">История</a>
-</nav>
-</div>
-</header>
-  
-<div class="flame-bar"></div>
-<section class="info-hero">
-<div class="olympic-rings hero-rings">
-<span class="ring ring-blue"></span>
-<span class="ring ring-black"></span>
-<span class="ring ring-red"></span>
-<span class="ring ring-yellow"></span>
-<span class="ring ring-green"></span>
-</div>
-<h1>Олимпийски игри <span>Мелбърн 2026</span></h1>
-<p>Всичко, което трябва да знаете за предстоящите летни игри</p>
-</section>
-<main class="info-sections">
-<div class="container">
-<!-- Секция 1 -->
-<article class="section-card">
-<div class="card-header">
-<div class="card-number">1</div>
-<h2 class="card-title">
-Какво представляват Олимпийските игри
-</h2>
-</div>
-<div class="card-body">
-<p>
-Олимпийските игри са най-мащабното и престижно международно спортно събитие в света.
-Те се провеждат на всеки четири години и обединяват хиляди спортисти от над
-200 страни и територии.
-</p>
-<p>
-Игрите имат своите корени в Древна Гърция, където са се провеждали на всеки четири 
-години в Олимпия в чест на бог Зевс. Съвременните Олимпийски игри са възродени от 
-барон Пиер дьо Кубертен и за първи път се провеждат в Атина през 1896 г.
-</p>
-<p>
-Основните ценности на олимпийското движение са изразени в девиза 
-<strong>
-"Citius, Altius, Fortius - Communiter"
-</strong>(По-бързо, По-високо, По-силно - Заедно),който подчертава стремежа към спортно съвършенство и международно приятелство.
-</p>
-<div class="section-image">
-<img src="olympic-history.jpg"
-alt="Олимпийски игри">
-</div>
-</div>
-</article>
-<!-- Секция 2 -->
-<article class="section-card">
-<div class="card-header">
-<div class="card-number">2</div>
-<h2 class="card-title">
-Къде ще се проведат игрите
-</h2>
-</div>
-<div class="card-body">
-<div class="highlight-box">
-Мелбърн, Австралия - 2026
-</div>
-<div class="section-image">
-<img src="melbourne-city.jpg"
-alt="Мелбърн">
-</div>
-<p>
-XXXII Летни Олимпийски игри ще се проведат в
-<strong>Мелбърн, Австралия</strong>Градът ще приема спортисти от целия свят в множество спортни комплекси и арени.
-</p>
-<p>
-Централното олимпийско селище ще бъде в Docklands., а основният стадион ще е Melbourne Cricket Ground.
-</p>
-<p> Игрите ще се проведат от
-<strong>от 18 юли до 3 август 2026 г.</strong>
-</p>
-</div>
-</article>
-<!-- Секция 3 -->
-<article class="section-card">
-<div class="card-header">
-<div class="card-number">3</div>
-<h2 class="card-title">
-Каква държава е Австралия
-</h2>
-</div>
-<div class="card-body">
-<p>
-Австралия е суверенна държава и континент, намираща се в Южното полукълбо. Тя е заобиколена от Индийския и Тихия океан.
-</p>
-<ul>
-<li>Площ: около 7.7 млн км²</li>
-<li>Население: около 26 млн души</li>
-<li>Официален език: английски</li>
-<li>Валута: Австралийски долар (AUD)</li>
-</ul>
-<div class="section-image">
-<img src="australia-mapp.jpg"
-alt="Австралия">
-</div>
-</div>
-</article>
-<!-- Секция 4 -->
-<article class="section-card">
-<div class="card-header">
-<div class="card-number">4</div>
-<h2 class="card-title">
-Какъв град е Мелбърн
-</h2>
-</div>
-<div class="card-body">
-<p>
-Мелбърн е вторият по-голям град в Австралия и столица на щата Виктория. Известен е с култура, спорт, кафе сцена, архитектура и големи международни събития.
-</p>
-<ul>
-<li>Население: около 5.2 млн</li>
-<li>Климат: умерен</li>
-<li>Основан: 1835 г.</li>
-</ul>
-<div class="section-image">
-<img src="melbourne-skyline.jpg"
-alt="Мелбърн">
-</div>
-</div>
-</article>
-<!-- Секция 5 -->
-<article class="section-card">
-<div class="card-header">
-<div class="card-number">5</div>
-<h2 class="card-title">
-Забележителности
-</h2>
-</div>
-<div class="card-body">
-<p>
-Мелбърн и околностите му предлагат голямо разнообразие от туристически атракции.
-</p>
-<div class="sights-grid">
-<div class="sight-item">
-<strong>Federation Square</strong>
-Централен площад и културно място
-</div>
-<div class="sight-item">
-<strong>Melbourne Cricket Ground</strong>
-Олимпийски стадион и спортна икона
-</div>
-<div class="sight-item">
-<strong>Royal Botanic Gardens </strong>
-Красиви ботанически градини
-</div>
-<div class="sight-item">
-<strong>Great Ocean Road</strong>
-Живописен крайбрежен маршрут
-</div>
-</div>
-<div class="gallery-grid">
-<img src="federation-square.jpg">
-<img src="melbourne-crickety-ground.png">
-<img src="royal-botanic-gardens.jpg">
-<img src="great-ocean-road.jpg">
-</div>
-</div>
-</article>
-<!-- Секция 6 -->
-<article class="section-card">
-<div class="card-header">
-<div class="card-number">6</div>
-<h2 class="card-title">
-Олимпийски медали
-</h2>
-</div>
-<div class="card-body">
-<p>
-Медалите са вдъхновени от природата и културата на Австралия.Те отразяват природното и културното наследство на Австралия, като  включват мотиви от местното изкуство, флора и фауна.
-</p>
-<div class="medals-showcase">
-<img src="melbourne-medals.png"
-class="medals-image" alt="Медали">
-<div class="medals-description">
-<h3>Официална концепция на медалите</h3>
-<p>
-Дизайнът съчетава модерната архитектура на Мелбърн, олимпийския дух и природни елементи на Австралия
-</p>
-</div>
-</div>
-</div>
-</article>
-<!-- Секция 7 -->
-<article class="section-card">
-<div class="card-header">
-<div class="card-number">7</div>
-<h2 class="card-title">
-Талисманът на игрите 2026 
-</h2>
-</div>
-<div class="card-body">
-<p>
-Официалният талисман е <strong>Коко</strong> - стилизирана коала в олимпийски цветове.
-</p>
-<div class="mascot-highlight">
-Коко носи олимпийски дух, дружелюбие и символизира идеята за обединение чрез спорт.
-</div>
-</article>
-<!-- Секция 8 -->
-<article class="section-card">
-<div class="card-header">
-<div class="card-number">8</div>
-<h2 class="card-title">
-Спортовете на летните игри в Австралия 2026
-</h2>
-</div>
-<div class="card-body">
-<p>
-Олимпийските спортове ще бъдат представени в Мелбърн.
-Те включват над 30 дисциплини както и новите олимпийски спортове като скейтборд и ветроходство.
-</p>
-<div class="sports-grid">
-<div class="sport-tag">Плуване</div>
-<div class="sport-tag">Лека атлетика</div>
-<div class="sport-tag">Колоездене</div>
-<div class="sport-tag">Гимнастика</div>
-<div class="sport-tag">Футбол</div>
-<div class="sport-tag">Баскетбол</div>
-<div class="sport-tag">Тенис</div>
-<div class="sport-tag">Волейбол</div>
-</div>
-<div class="section-image">
-<img src="olympic-sports-summer.png"
-alt="Олимпийски спортове">
-</div>
-</div>
-</article>
-</div>
-</main>
+:root {
+  --yellow: #ffcc00;
+  --yellow-bright: #ffd400;
+  --gold: #ffc300;
+  --green: #007a3d;
+  --green-soft: #4caf50;
+  --blue: #0057b7;
+  --blue-soft: #4da6ff;
+  --orange: #ff6a00;
+  --orange-deep: #ff5f00;
+  --orange-soft: #ff7043;
+  --navy: #002244;
+  --sand: #f2e4c6;
+  --white: #ffffff;
+  --text: #243044;
+  --muted: #657083;
+  --shadow: 0 14px 35px rgba(0, 34, 68, 0.12);
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--text);
+  background: linear-gradient(180deg, #fffaf0 0%, #f7fbff 42%, #ffffff 100%);
+  line-height: 1.6;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.container {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto;
+}
+.olympic-rings {
+  display: grid;
+  grid-template-columns: repeat(6, 13px);
+  grid-template-rows: repeat(2, 13px);
+  width: 78px;
+  height: 32px;
+  align-items: center;
+}
+.ring {
+  width: 24px;
+  height: 24px;
+  border: 3px solid;
+  border-radius: 50%;
+  background: transparent;
+}
+.ring-blue { border-color: #0057b7; grid-column: 1 / span 2; grid-row: 1; }
+.ring-black { border-color: #222; grid-column: 3 / span 2; grid-row: 1; }
+.ring-red { border-color: #ff3040; grid-column: 5 / span 2; grid-row: 1; }
+.ring-yellow { border-color: #ffcc00; grid-column: 2 / span 2; grid-row: 2; }
+.ring-green { border-color: #007a3d; grid-column: 4 / span 2; grid-row: 2; }
+header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.94);
+  border-bottom: 1px solid rgba(0, 34, 68, 0.1);
+  backdrop-filter: blur(12px);
+}
+.header-inner {
+  width: min(1100px, calc(100% - 32px));
+  min-height: 74px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 800;
+  color: var(--navy);
+}
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.12;
+  font-size: 1.12rem;
+}
+.logo-text em {
+  margin-top: 3px;
+  color: var(--green);
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+}
+nav {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+nav a {
+  padding: 10px 14px;
+  border-radius: 999px;
+  color: var(--navy);
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+nav a:hover,
+nav a.active {
+  color: var(--white);
+  background: var(--blue);
+}
+.flame-bar {
+  height: 6px;
+  background: linear-gradient(90deg, var(--blue), var(--yellow), var(--green), var(--orange), var(--navy));
+}
+.info-hero {
+  padding: 64px 16px 58px;
+  text-align: center;
+  color: var(--white);
+  background:
+    linear-gradient(135deg, rgba(0, 34, 68, 0.92), rgba(0, 87, 183, 0.82)),
+    radial-gradient(circle at top left, var(--yellow), transparent 34%),
+    linear-gradient(120deg, var(--green), var(--orange));
+}
+.hero-rings {
+  margin: 0 auto 20px;
+  width: 118px;
+  height: 50px;
+  transform: scale(1.22);
+  transform-origin: center;
+}
+.info-hero h1 {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  line-height: 1.08;
+}
+.info-hero h1 span {
+  color: var(--yellow-bright);
+}
+.info-hero p {
+  max-width: 660px;
+  margin: 14px auto 0;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.08rem;
+}
+.info-sections {
+  padding: 38px 0 58px;
+}
+.section-card {
+  margin-bottom: 22px;
+  overflow: hidden;
+  border: 1px solid rgba(0, 34, 68, 0.08);
+  border-radius: 8px;
+  background: var(--white);
+  box-shadow: var(--shadow);
+}
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 20px;
+  color: var(--white);
+  background: linear-gradient(90deg, var(--navy), var(--blue));
+}
+.section-card:nth-child(2n) .card-header {
+  background: linear-gradient(90deg, var(--green), var(--blue));
+}
+.section-card:nth-child(3n) .card-header {
+  background: linear-gradient(90deg, var(--orange-deep), var(--gold));
+  color: var(--navy);
+}
+.card-number {
+  display: grid;
+  width: 38px;
+  height: 38px;
+  place-items: center;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--yellow);
+  color: var(--navy);
+  font-weight: 800;
+}
+.card-title {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.25;
+}
+.card-body {
+  padding: 22px;
+}
+.card-body p {
+  margin: 0 0 14px;
+}
+.card-body p:last-child {
+  margin-bottom: 0;
+}
+.highlight-box,
+.mascot-highlight {
+  margin-bottom: 16px;
+  padding: 14px 16px;
+  border-left: 5px solid var(--orange);
+  border-radius: 8px;
+  background: var(--sand);
+  font-weight: 700;
+  color: var(--navy);
+}
+.sights-grid,
+.sports-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+.sight-item,
+.sport-tag {
+  padding: 14px;
+  border: 1px solid rgba(0, 87, 183, 0.14);
+  border-radius: 8px;
+  background: #f8fbff;
+}
+.sight-item strong {
+  display: block;
+  margin-bottom: 5px;
+  color: var(--blue);
+}
+.sport-tag {
+  font-weight: 700;
+  color: var(--navy);
+  background: linear-gradient(135deg, #ffffff, #fff4d1);
+}
+.medals-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 24px 0 6px;
+}
+.medal-item {
+  text-align: center;
+  font-weight: 800;
+}
+.medal-circle {
+  display: grid;
+  width: 88px;
+  height: 88px;
+  place-items: center;
+  margin-bottom: 8px;
+  border-radius: 50%;
+  border: 6px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 12px 24px rgba(0, 34, 68, 0.18);
+  color: var(--navy);
+  font-size: 1.25rem;
+}
+.medal-silver { background: linear-gradient(135deg, #f7f7f7, #b9c1c9); }
+.medal-gold { background: linear-gradient(135deg, #fff3a1, var(--yellow), var(--orange)); }
+.medal-bronze { background: linear-gradient(135deg, #e7a36b, #a85825); color: #fff; }
+footer {
+  padding: 34px 16px;
+  color: var(--white);
+  background: var(--navy);
+}
+.footer-inner {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.footer-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.footer-brand strong {
+  display: block;
+  font-size: 1.05rem;
+}
+.footer-brand span,
+.footer-copy {
+  color: rgba(255, 255, 255, 0.74);
+  font-size: 0.92rem;
+}
+@media (max-width: 720px) {
+  .header-inner,
+  .footer-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 14px 0;
+  }
+  nav {
+    width: 100%;
+  }
+  nav a {
+    flex: 1;
+    text-align: center;
+  }
+  .info-hero {
+    padding-top: 42px;
+  }
+  .card-header {
+    align-items: flex-start;
+  }
+  .footer-copy {
+    margin: 0;
+  }
+}
 
-<footer>
-<div class="footer-inner">
-<div class="footer-brand">
-<div class="olympic-rings">
-<span class="ring ring-blue"></span>
-<span class="ring ring-black"></span>
-<span class="ring ring-red"></span>
-<span class="ring ring-yellow"></span>
-<span class="ring ring-green"></span>
-</div>
-<div>
-<strong>Melbourne 2026</strong>
-<span>XXXII Летни Олимпийски игри</span>
-</div>
-</div>
-<p class="footer-copy">
-© 2026 Международен олимпийски комитет
-</p>
-</div>
-</footer>
-<script src="marina.js"></script>
-</body>
-</html>
+.medals-showcase{
+    text-align:center;
+    padding:25px;
+}
+.medals-image{
+    width:100%;
+    max-width:850px;
+    border-radius:20px;
+    box-shadow:
+    0 15px 40px rgba(0,0,0,.18);
+    transition:.5s;
+}
+.medals-image:hover{
+    transform:
+    scale(1.03)
+    rotate(-1deg);
+    box-shadow:
+    0 20px 60px rgba(0,0,0,.25);
+}
+.medals-description{
+    max-width:700px;
+    margin:25px auto 0;
+}
+.medals-description h3{
+    color:var(--navy);
+    margin-bottom:10px;
+}
+.medals-description p{
+    color:var(--muted);
+}
+
+.section-image{
+margin-top:20px;
+overflow:hidden;
+border-radius:16px;
+}
+
+.section-image img{
+width:100%;
+height:300px;
+object-fit:cover;
+display:block;
+transition:0.4s;
+}
+
+.section-image img:hover{
+transform:scale(1.05);
+}
+
+.gallery-grid{
+margin-top:20px;
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:15px;
+}
+
+.gallery-grid img{
+width:100%;
+height:180px;
+object-fit:cover;
+border-radius:14px;
+transition:0.4s;
+}
+
+.gallery-grid img:hover{
+transform:scale(1.05);
+}
+
+.mascot-image img{
+height:350px;
+object-fit:contain;
+background:#fff;
+padding:20px;
+}
